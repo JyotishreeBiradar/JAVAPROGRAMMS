@@ -1,0 +1,9 @@
+class Spoon
+{
+	
+	public Spoon()
+	{
+		
+	}
+	
+}

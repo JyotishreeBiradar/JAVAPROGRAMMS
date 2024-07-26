@@ -1,0 +1,9 @@
+class Stove
+{
+	
+	public Stove()
+	{
+		
+	}
+	
+}

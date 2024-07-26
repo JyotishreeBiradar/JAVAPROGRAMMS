@@ -1,0 +1,9 @@
+class Bowl
+{
+	
+	public Bowl()
+	{
+		
+	}
+	
+}

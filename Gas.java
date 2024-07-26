@@ -1,0 +1,9 @@
+class Gas
+{
+	
+	public Gas()
+	{
+		
+	}
+	
+}

@@ -1,0 +1,9 @@
+class Flour
+{
+	
+	public Flour()
+	{
+		
+	}
+	
+}

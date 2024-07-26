@@ -1,0 +1,9 @@
+class RollerStick
+{
+	
+	public RollerStick()
+	{
+		
+	}
+	
+}

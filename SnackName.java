@@ -1,9 +1,9 @@
-class SnackNames
+class SnackName
 {
    public static void main(String[] args)
    {
    
-   System.out.println("start main in SnackNames");
+   System.out.println("start main in SnackName");
    
    String s1="Panipuri";
    String s2="Sevapuri";
@@ -34,7 +34,7 @@ class SnackNames
    String[] Totalsnacknames={s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15,s16,s17,s18,s19,s20,s21,s22,s23,s24,s25};
    
    		
-		for(int begin=0;begin<Totalsnacknames.length;begin++)
+		for(int begin=Totalsnacknames.length-1;begin>=0;begin--)
 	  {
 		
 		  System.out.println("Begin:"+Totalsnacknames[begin]);
@@ -42,7 +42,7 @@ class SnackNames
 	      System.out.println(Totalsnacknames.length);
    
    
-          System.out.println("end main in SnackNames");
+          System.out.println("end main in SnackName");
    }
 
 
